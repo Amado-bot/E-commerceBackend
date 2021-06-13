@@ -4,7 +4,10 @@
 ![badge](https://img.shields.io/badge/badge--orange)<br />
 
 ## Description
-This is the bacckedn portion of a E-Commerce website that I made using the sequelize ORM along with MYSQL and express.js servers. The routes and model created now allow you to search by categorie, tag, product and product tags. 
+This is the bacckedn portion of a E-Commerce website.
+the app was made using the sequelize ORM along with MYSQL and express.js servers.
+The routes and models created allow you to search by categorie, tag, product and product
+tags and they all refrence each other for the neccesary data.
 
 ## Table of Contents
 
@@ -12,9 +15,14 @@ This is the bacckedn portion of a E-Commerce website that I made using the seque
 * [Usage](#usage)
 * [Questions](#questions)
 
-## Installation
-
-To run the application clone the repository. Open the folder with the integrated terminal or cd to it and run npm install to download all the required node_modules and dependencies.After the express server is installed run "npm start" to start the server.
+ ## Installation
+- Both Node.js and MySQL must be installed on your computer.
+- Clone the repo by copying and pasting in your command line: 
+  - `git clone git@github.com:Amado-bot/E-commerceBackend.git`
+- Navigate to the root directory and run: 
+  - `npm install`
+- To start the server, in the command line run: 
+  - `npm start`
 
 ## Questions
 
